@@ -10,6 +10,7 @@ For your convenience, you can search for all bugs by all testers, type the word 
 
 ![Alt text](./readMeImgs/allBugs.png?raw=true "Optional Title")
 
+you can sort the list by country or last name by clicking on the specific title
 
 *** installing instructions ***
 
